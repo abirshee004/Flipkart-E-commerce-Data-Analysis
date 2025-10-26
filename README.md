@@ -66,13 +66,12 @@ This project analyzes a sample dataset of Flipkart e-commerce products. The goal
 
 
 ### Discount vs. Rating Scatter Plot
-![Discount vs Rating](https://drive.google.com/file/d/1FnuiE22pv1_CCCm1mMMu0ol4j_zqGig2/view?usp=sharing)
-
+![Discount vs Rating](scatterplot.png)
 ### Rating Distribution by Discount Range
-![Rating by Discount Box Plot](https://drive.google.com/file/d/1LxAQQIxogWw_36WgPkyJCW63cOiQ5ZHy/view?usp=sharing)
+![Rating by Discount Box Plot](boxplot.png)
 
 ### Top Categories by Avg Discount
 ![Top Categories Bar Plot](path/to/category_bar_plot.png)
 
 ### Top Brands by Product Count
-![Top Brands Bar Plot](https://drive.google.com/file/d/1rL0qGj4VzQtn2WdIHZab4vgALTPAwgJj/view?usp=sharing)
+![Top Brands Bar Plot](top 10 brand.png)
