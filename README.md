@@ -3,12 +3,12 @@
 # Flipkart E-commerce Product Analysis
 
 ## Project Overview
-
+ 
 This project analyzes a sample dataset of Flipkart e-commerce products. The goal is to explore product details, pricing strategies, discounts, ratings, and identify patterns across different product categories and brands using Python libraries like Pandas, Matplotlib, and Seaborn.
 
 ## Dataset
 
-* **Source:** [Download the Flipkart Dataset]([flipkart_com-ecommerce_sample.csv](https://drive.google.com/file/d/1tVMd6DKzFwgLmUdwoGsstT_qZj480Koc/view?usp=sharing))
+* **Source:** # [Download the Flipkart Dataset](https://drive.google.com/file/d/1tVMd6DKzFwgLmUdwoGsstT_qZj480Koc/view?usp=sharing)
 * **Description:** Contains information on approximately 20,000 products listed on Flipkart.
 * **Key Features:** `uniq_id`, `product_name`, `product_category_tree`, `brand`, `retail_price`, `discounted_price`, `product_rating`, `overall_rating`, `description`, etc.
 
