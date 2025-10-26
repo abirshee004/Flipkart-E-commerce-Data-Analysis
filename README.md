@@ -1,7 +1,5 @@
 # Flipkart-E-commerce-Data-Analysis
 
-# Flipkart E-commerce Product Analysis
-
 ## Project Overview
  
 This project analyzes a sample dataset of Flipkart e-commerce products. The goal is to explore product details, pricing strategies, discounts, ratings, and identify patterns across different product categories and brands using Python libraries like Pandas, Matplotlib, and Seaborn.
@@ -66,15 +64,15 @@ This project analyzes a sample dataset of Flipkart e-commerce products. The goal
 
 *(Optional: Include Images of your plots here)*
 
-```markdown
+
 ### Discount vs. Rating Scatter Plot
-![Discount vs Rating](path/to/scatter_plot.png)
+![Discount vs Rating](https://drive.google.com/file/d/1FnuiE22pv1_CCCm1mMMu0ol4j_zqGig2/view?usp=sharing)
 
 ### Rating Distribution by Discount Range
-![Rating by Discount Box Plot](path/to/box_plot.png)
+![Rating by Discount Box Plot](https://drive.google.com/file/d/1LxAQQIxogWw_36WgPkyJCW63cOiQ5ZHy/view?usp=sharing)
 
 ### Top Categories by Avg Discount
 ![Top Categories Bar Plot](path/to/category_bar_plot.png)
 
 ### Top Brands by Product Count
-![Top Brands Bar Plot](path/to/brand_bar_plot.png)
+![Top Brands Bar Plot](https://drive.google.com/file/d/1rL0qGj4VzQtn2WdIHZab4vgALTPAwgJj/view?usp=sharing)
